@@ -16,7 +16,7 @@ namespace test_project_gi
         {
             InitializeComponent();
         }
-
+        
         private void Form1_Load(object sender, EventArgs e)
         {
             MessageBox.Show(this,DateTime.Now.ToString());
