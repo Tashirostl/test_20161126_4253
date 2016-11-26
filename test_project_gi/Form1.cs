@@ -19,7 +19,9 @@ namespace test_project_gi
         
         private void Form1_Load(object sender, EventArgs e)
         {
-            MessageBox.Show(this,DateTime.Now.ToString());
+            DateTime datenow = DateTime.Now;
+            //あああ
+            MessageBox.Show(this, datenow.AddHours(10).ToString());
         }
     }
 }
