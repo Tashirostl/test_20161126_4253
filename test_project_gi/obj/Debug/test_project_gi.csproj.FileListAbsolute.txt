@@ -1,0 +1,9 @@
+C:\study_wk\test_project_gi\test_project_gi\bin\Debug\test_project_gi.exe.config
+C:\study_wk\test_project_gi\test_project_gi\bin\Debug\test_project_gi.exe
+C:\study_wk\test_project_gi\test_project_gi\bin\Debug\test_project_gi.pdb
+C:\study_wk\test_project_gi\test_project_gi\obj\Debug\test_project_gi.csprojResolveAssemblyReference.cache
+C:\study_wk\test_project_gi\test_project_gi\obj\Debug\test_project_gi.Form1.resources
+C:\study_wk\test_project_gi\test_project_gi\obj\Debug\test_project_gi.Properties.Resources.resources
+C:\study_wk\test_project_gi\test_project_gi\obj\Debug\test_project_gi.csproj.GenerateResource.Cache
+C:\study_wk\test_project_gi\test_project_gi\obj\Debug\test_project_gi.exe
+C:\study_wk\test_project_gi\test_project_gi\obj\Debug\test_project_gi.pdb
